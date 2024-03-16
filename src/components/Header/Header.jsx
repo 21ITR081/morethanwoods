@@ -80,8 +80,7 @@ const Header = () => {
                         <div className="logo">
                             <img src={logo} alt="logo" />
                             <div>
-                                <h1>More Than Wood</h1>
-
+                                <h1>Maruthi </h1>
                             </div>
                         </div>
 
